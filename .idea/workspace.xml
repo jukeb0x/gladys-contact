@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d87f01ac-4efa-406b-947b-219f36d8b31a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/install.js" beforeDir="false" afterPath="$PROJECT_DIR$/install.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/sentences.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/sentences.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uninstall.js" beforeDir="false" afterPath="$PROJECT_DIR$/uninstall.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/dao/jsonDao.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dao/jsonDao.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/uninstall.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="227" selection-start-line="12" selection-start-column="227" selection-end-line="12" selection-end-column="227" />
+            <state relative-caret-position="105">
+              <caret line="7" column="77" lean-forward="true" selection-start-line="7" selection-start-column="77" selection-end-line="7" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -47,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/sentences.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="104" column="36" selection-start-line="104" selection-start-column="36" selection-end-line="104" selection-end-column="36" />
+            <state relative-caret-position="298">
+              <caret line="49" column="53" lean-forward="true" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -62,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/dao/jsonDao.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="98" column="63" selection-start-line="98" selection-start-column="63" selection-end-line="98" selection-end-column="63" />
+            <state relative-caret-position="178">
+              <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -137,11 +135,11 @@
         <option value="$PROJECT_DIR$/lib/create.js" />
         <option value="$PROJECT_DIR$/lib/shared.js" />
         <option value="$PROJECT_DIR$/lib/remove.js" />
-        <option value="$PROJECT_DIR$/lib/dao/jsonDao.js" />
         <option value="$PROJECT_DIR$/lib/update.js" />
         <option value="$PROJECT_DIR$/lib/sentences.js" />
         <option value="$PROJECT_DIR$/install.js" />
         <option value="$PROJECT_DIR$/uninstall.js" />
+        <option value="$PROJECT_DIR$/lib/dao/jsonDao.js" />
       </list>
     </option>
   </component>
@@ -218,12 +216,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560513940065</updated>
-      <workItem from="1560513941251" duration="14022000" />
+      <workItem from="1560513941251" duration="14632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14022000" />
+    <option name="totallyTimeSpent" value="14632000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -353,13 +351,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/dao/jsonDao.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="98" column="63" selection-start-line="98" selection-start-column="63" selection-end-line="98" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/remove.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -374,13 +365,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sentences.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="104" column="36" selection-start-line="104" selection-start-column="36" selection-end-line="104" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/install.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -390,8 +374,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/uninstall.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="227" selection-start-line="12" selection-start-column="227" selection-end-line="12" selection-end-column="227" />
+        <state relative-caret-position="105">
+          <caret line="7" column="77" lean-forward="true" selection-start-line="7" selection-start-column="77" selection-end-line="7" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sentences.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="49" column="53" lean-forward="true" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dao/jsonDao.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
         </state>
       </provider>
     </entry>
