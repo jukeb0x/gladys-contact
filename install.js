@@ -1,14 +1,17 @@
 const Promise = require('bluebird');
+var sentences = require('./lib/sentences.js');
 
-module.exports = function install(moduleInfos) {
-  sails.log.debug('moduleInfos: ', moduleInfos)
-  return new Promise(function (resolve, reject) {
-    // async work here
-    const valueToReturn = console.log('This will appear just one time...');
+module.exports = function install(){
 
-    resolve(valueToReturn);
+//	gladys.user.get().then(function(user){
+//		if(user[0].language!='fr-FR')
+//Undefined au démarrage de gladys.
 
-    // if something fails, reject(new Error('bad bad'));
-  })
+//on prends la langue du 1er admin
+  return gladys.utils.sql('select language from user where role=\'admin\' order by id').then(function(lang){
+    if(lang[0].language!='fr-FR')
+      return gladys.sentence.insertBatch([sentences.sentenceAddEn]);
+    else return gladys.sentence.insertBatch([sentences.sentenceAddFr]);
+  });
 
 };

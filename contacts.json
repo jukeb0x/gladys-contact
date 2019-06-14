@@ -1,0 +1,13 @@
+[
+  {
+    "name":"test",
+    "surname":"testnom",
+    "birthdate":"01/01",
+    "phone":"0011223344"
+  },
+  {"name":"test2",
+    "surname":"testnom2",
+    "birthdate":"02/03",
+    "phone":"5566778899"}
+
+]
