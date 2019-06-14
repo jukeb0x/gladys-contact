@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d87f01ac-4efa-406b-947b-219f36d8b31a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/shared.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/shared.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/dao/jsonDao.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dao/jsonDao.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -93,16 +93,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/dao/jsonDao.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            <state relative-caret-position="195">
+              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/shared.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -144,8 +144,8 @@
         <option value="$PROJECT_DIR$/install.js" />
         <option value="$PROJECT_DIR$/uninstall.js" />
         <option value="$PROJECT_DIR$/lib/sentences.js" />
-        <option value="$PROJECT_DIR$/lib/dao/jsonDao.js" />
         <option value="$PROJECT_DIR$/lib/shared.js" />
+        <option value="$PROJECT_DIR$/lib/dao/jsonDao.js" />
       </list>
     </option>
   </component>
@@ -222,12 +222,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560513940065</updated>
-      <workItem from="1560513941251" duration="12294000" />
+      <workItem from="1560513941251" duration="12900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12294000" />
+    <option name="totallyTimeSpent" value="12900000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -388,17 +388,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/dao/jsonDao.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/shared.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dao/jsonDao.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
