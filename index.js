@@ -6,7 +6,7 @@ var create = require('./lib/create.js');
 var update = require('./lib/update.js');
 var remove = require('./lib/remove.js');
 var get = require('./lib/get.js');
-var command = require('./lib/contacts.command.js');
+var command = require('./lib/command.js');
 var install = require('./install.js');
 var uninstall = require('./uninstall.js');
 
@@ -16,7 +16,7 @@ module.exports = function(sails) {
     create: create,
     update: update,
     remove: remove,
-    update: update,
+    command: command,
     get: get,
     install: install,
     uninstall: uninstall
