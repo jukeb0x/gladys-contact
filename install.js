@@ -10,8 +10,8 @@ module.exports = function install(){
 //on prends la langue du 1er admin
   return gladys.utils.sql('select language from user where role=\'admin\' order by id').then(function(lang){
     if(lang[0].language!='fr-FR')
-      return gladys.sentence.insertBatch([sentences.sentenceAddEn]);
-    else return gladys.sentence.insertBatch([sentences.sentenceAddFr]);
+      return gladys.sentence.insertBatch([sentences.sentenceAddEn,sentences.sentenceReadEn]);
+    else return gladys.sentence.insertBatch([sentences.sentenceAddFr,sentences.sentenceReadFr]);
   });
 
 };

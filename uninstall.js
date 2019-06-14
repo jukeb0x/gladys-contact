@@ -9,8 +9,8 @@ module.exports = function uninstall(){
 
   return gladys.utils.sql('select language from user where role=\'admin\' order by id').then(function(lang){
     if(lang[0].language!='fr-FR')
-      gladys.utils.sql('DELETE FROM sentence WHERE uuid in (?,?)', [sentences.sentenceAddEn.sentences[0].uuid]);
-    else gladys.utils.sql('DELETE FROM sentence WHERE uuid in (?,?)', [sentences.sentenceAddFr.sentences[0].uuid]);
+      gladys.utils.sql('DELETE FROM sentence WHERE uuid in (?,?)', [sentences.sentenceAddEn.sentences[0].uuid,sentences.sentenceReadEn.sentences[0].uuid]);
+    else gladys.utils.sql('DELETE FROM sentence WHERE uuid in (?,?)', [sentences.sentenceAddFr.sentences[0].uuid,sentences.sentenceReadEn.sentences[0].uuid]);
   });
 
 };
