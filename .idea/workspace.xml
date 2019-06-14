@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d87f01ac-4efa-406b-947b-219f36d8b31a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gladys-contacts.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contacts.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/dao/jsonDao.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/sentences.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uninstall.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fakeLib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/install.js" beforeDir="false" afterPath="$PROJECT_DIR$/install.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/exec.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/command.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/getAGladysParam.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/create.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/iLoveGladys.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/update.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/myAwesomeFunction.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/remove.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/newDevice.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/playWithClient.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/queries.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/retrieveFromDb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/shared.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/shared.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/skySTheLimit.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/get.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/testLogs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/create.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/create.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -68,6 +46,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LICENSE">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/create.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -88,29 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/uninstall.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="89" selection-start-line="11" selection-start-column="89" selection-end-line="11" selection-end-column="89" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/dao/jsonDao.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -162,12 +140,12 @@
         <option value="$PROJECT_DIR$/lib/retrieveFromDb.js" />
         <option value="$PROJECT_DIR$/lib/shared.js" />
         <option value="$PROJECT_DIR$/lib/dao/jsonDao.js" />
-        <option value="$PROJECT_DIR$/lib/create.js" />
         <option value="$PROJECT_DIR$/lib/get.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/lib/sentences.js" />
         <option value="$PROJECT_DIR$/install.js" />
         <option value="$PROJECT_DIR$/uninstall.js" />
+        <option value="$PROJECT_DIR$/lib/create.js" />
       </list>
     </option>
   </component>
@@ -244,12 +222,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560513940065</updated>
-      <workItem from="1560513941251" duration="6998000" />
+      <workItem from="1560513941251" duration="7101000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6998000" />
+    <option name="totallyTimeSpent" value="7101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -322,13 +300,6 @@
     <entry file="file://$PROJECT_DIR$/lib/retrieveFromDb.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/create.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="28" lean-forward="true" selection-end-line="41" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/get.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -354,16 +325,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" selection-start-line="4" selection-end-line="28" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/remove.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -409,6 +370,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="89" selection-start-line="11" selection-start-column="89" selection-end-line="11" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/remove.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/create.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>
