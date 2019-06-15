@@ -14,7 +14,7 @@ module.exports = function uninstall(){
         sentences.sentenceReadTelephoneEn.sentences[0].uuid,
         sentences.sentenceReadBirthdateEn.sentences[0].uuid,
         sentences.sentenceRemoveEn.sentences[0].uuid,
-        sentences.sentenceUpdateTelephoneEn.sentences[0].uuid],
+        sentences.sentenceUpdateTelephoneEn.sentences[0].uuid,
         sentences.sentenceUpdateBirthdateEn.sentences[0].uuid]);
     else gladys.utils.sql('DELETE FROM sentence WHERE uuid in (?,?)', [
         sentences.sentenceAddFr.sentences[0].uuid,
