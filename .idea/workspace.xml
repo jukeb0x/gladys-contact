@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d87f01ac-4efa-406b-947b-219f36d8b31a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/sentences.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/sentences.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uninstall.js" beforeDir="false" afterPath="$PROJECT_DIR$/uninstall.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/command.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/command.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,20 +42,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/sentences.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="-1770">
               <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/command.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            <state relative-caret-position="180">
+              <caret line="12" column="64" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -142,10 +141,10 @@
         <option value="$PROJECT_DIR$/lib/dao/jsonDao.js" />
         <option value="$PROJECT_DIR$/lib/get.js" />
         <option value="$PROJECT_DIR$/lib/update.js" />
-        <option value="$PROJECT_DIR$/lib/command.js" />
         <option value="$PROJECT_DIR$/install.js" />
         <option value="$PROJECT_DIR$/uninstall.js" />
         <option value="$PROJECT_DIR$/lib/sentences.js" />
+        <option value="$PROJECT_DIR$/lib/command.js" />
       </list>
     </option>
   </component>
@@ -223,12 +222,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560513940065</updated>
       <workItem from="1560513941251" duration="15463000" />
-      <workItem from="1560606980876" duration="2391000" />
+      <workItem from="1560606980876" duration="3242000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17854000" />
+    <option name="totallyTimeSpent" value="18705000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -347,13 +346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/command.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/install.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -370,8 +362,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/sentences.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="-1770">
           <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/command.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="64" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
         </state>
       </provider>
     </entry>
