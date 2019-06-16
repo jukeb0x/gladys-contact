@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d87f01ac-4efa-406b-947b-219f36d8b31a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/get.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/get.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/dao/jsonDao.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dao/jsonDao.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,19 +60,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/dao/jsonDao.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+            <state relative-caret-position="75">
+              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/get.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="271">
               <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
             </state>
           </provider>
@@ -139,12 +139,12 @@
         <option value="$PROJECT_DIR$/lib/remove.js" />
         <option value="$PROJECT_DIR$/lib/create.js" />
         <option value="$PROJECT_DIR$/lib/update.js" />
-        <option value="$PROJECT_DIR$/lib/dao/jsonDao.js" />
         <option value="$PROJECT_DIR$/lib/sentences.js" />
         <option value="$PROJECT_DIR$/install.js" />
         <option value="$PROJECT_DIR$/uninstall.js" />
         <option value="$PROJECT_DIR$/lib/command.js" />
         <option value="$PROJECT_DIR$/lib/get.js" />
+        <option value="$PROJECT_DIR$/lib/dao/jsonDao.js" />
       </list>
     </option>
   </component>
@@ -223,12 +223,12 @@
       <updated>1560513940065</updated>
       <workItem from="1560513941251" duration="15463000" />
       <workItem from="1560606980876" duration="5172000" />
-      <workItem from="1560682902218" duration="3151000" />
+      <workItem from="1560682902218" duration="3317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23786000" />
+    <option name="totallyTimeSpent" value="23952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -361,17 +361,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/dao/jsonDao.js">
+    <entry file="file://$PROJECT_DIR$/lib/get.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        <state relative-caret-position="271">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/get.js">
+    <entry file="file://$PROJECT_DIR$/lib/dao/jsonDao.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        <state relative-caret-position="75">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
