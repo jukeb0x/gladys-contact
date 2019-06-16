@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d87f01ac-4efa-406b-947b-219f36d8b31a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/command.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/command.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/dao/jsonDao.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dao/jsonDao.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,10 +42,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/command.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
+            <state relative-caret-position="347">
               <caret line="60" column="52" selection-start-line="60" selection-start-column="52" selection-end-line="60" selection-end-column="52" />
             </state>
           </provider>
@@ -60,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/dao/jsonDao.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1588">
-              <caret line="20" column="32" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="32" />
+            <state relative-caret-position="215">
+              <caret line="146" column="21" selection-start-line="146" selection-start-column="21" selection-end-line="146" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -118,9 +118,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>update</find>
-      <find>findElement</find>
       <find>consol</find>
       <find>console</find>
+      <find>findElement</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -142,12 +142,12 @@
         <option value="$PROJECT_DIR$/install.js" />
         <option value="$PROJECT_DIR$/uninstall.js" />
         <option value="$PROJECT_DIR$/contacts.json" />
-        <option value="$PROJECT_DIR$/lib/dao/jsonDao.js" />
         <option value="$PROJECT_DIR$/lib/get.js" />
         <option value="$PROJECT_DIR$/lib/create.js" />
         <option value="$PROJECT_DIR$/lib/update.js" />
         <option value="$PROJECT_DIR$/lib/remove.js" />
         <option value="$PROJECT_DIR$/lib/command.js" />
+        <option value="$PROJECT_DIR$/lib/dao/jsonDao.js" />
       </list>
     </option>
   </component>
@@ -227,12 +227,12 @@
       <workItem from="1560513941251" duration="15463000" />
       <workItem from="1560606980876" duration="5172000" />
       <workItem from="1560682902218" duration="8211000" />
-      <workItem from="1560703333696" duration="1069000" />
+      <workItem from="1560703333696" duration="1852000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29915000" />
+    <option name="totallyTimeSpent" value="30698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -337,13 +337,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/dao/jsonDao.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1588">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/get.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -374,8 +367,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/command.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
+        <state relative-caret-position="347">
           <caret line="60" column="52" selection-start-line="60" selection-start-column="52" selection-end-line="60" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dao/jsonDao.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="146" column="21" selection-start-line="146" selection-start-column="21" selection-end-line="146" selection-end-column="21" />
         </state>
       </provider>
     </entry>
