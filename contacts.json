@@ -1,10 +1,10 @@
 [
   {
-    "name":"Jean",
+    "contactName":"Jean",
     "birthdate":"01/01",
     "phone":"0011223344"
   },
-  {"name":"Jacques",
+  {"contactName":"Jacques",
     "birthdate":"02/03",
     "phone":"5566778899"}
 
